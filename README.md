@@ -16,5 +16,5 @@ mill demo.test
 Generate IDEA project:
 
 ```
-mill.scalalib.GenIdeaModule/idea
+mill mill.scalalib.GenIdeaModule/idea
 ```
